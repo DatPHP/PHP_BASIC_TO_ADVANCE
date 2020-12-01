@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px; 
+}
+.content3
+{
+    margin:20px auto;
+    width:500px;
+    border:1px solid #999;
+    padding: 10px;
+    min-height: : 200px;
+    justify-content: space-between;
+}
+
+.content3 h1{
+    padding-top:15px;
+    color: red;
+    text-align: center;
+}
+.content3 div.image{
+
+    margin: 20px 0px;
+    text-align: center;
+}
+    
+.content3 div.image img{
+
+    margin: 10px 0px;
+    width: 500px;
+    height: 350px;
+}
+
+.content3 div.image a{
+    display: inline-block;
+    background-color: royalblue;
+    padding: 3px 10px;
+    text-decoration: none;
+    color: #ffffff;
+    
+    
+}
+
+.content3 div.image a:hover{
+    color: black;
+    
+}
